@@ -83,5 +83,3 @@ Ao construir uma arquitetura no Azure, seguimos a seguinte lógica:
 
 Compreender os conceitos de **regiões, zonas, grupos e controle de acesso** é essencial para construir soluções robustas, seguras e eficientes no Microsoft Azure. Este conhecimento nos prepara para desenhar arquiteturas escaláveis e com boas práticas de governança.
 
-> A nuvem não é apenas um local onde rodamos aplicativos — ela é um **ecossistema de recursos organizados estrategicamente** para atender às necessidades de negócios com eficiência.
-
